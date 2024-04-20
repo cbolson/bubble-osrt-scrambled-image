@@ -1,2 +1,2 @@
-# bubble-osrt-scrambled-image
+# bubble-sort-scrambled-image
 Use the Bubble Sort algorithm to sort a scrambled image
